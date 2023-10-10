@@ -1,4 +1,4 @@
-# Homebrew Rules for [Your Campaign Name]
+# Homebrew Rules
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -6,8 +6,7 @@
 3. [Combat Modifications](#combat-modifications)
 4. [Magic & Spells](#magic--spells)
 5. [Equipment & Items](#equipment--items)
-6. [World & Setting Specifics](#world--setting-specifics)
-7. [Miscellaneous Rules](#miscellaneous-rules)
+6. [Miscellaneous Rules](#miscellaneous-rules)
 
 ## Introduction
 This compilation offers a consolidated reference for rules across multiple games.
