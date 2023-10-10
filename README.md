@@ -18,13 +18,13 @@ This compilation offers a consolidated reference for rules across multiple games
 - **Race 2**: Description and alterations.
   
 ### Classes
-- **Class 1**: 
-  - **Feature Change 1**: How this feature has changed.
-  - **Feature Change 2**: How this feature has changed.
+- <a name="feature-change-1"></a>**Feature Change 1**: How this feature has changed.
+- **Feature Change 2**: How this feature has changed.
+
 #### Progression
-| Level | Proficiency Bonus | Features                      | Cantrips Known | Spells Known | Spell Slots per Spell Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|-------------------------------|----------------|--------------|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1     | +2               | Feature A, Feature B           | 2              | -            | -                          | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                       | Cantrips Known | Spells Known | Spell Slots per Spell Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-------------------|--------------------------------|----------------|--------------|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1     | +2               | [Feature A](#feature-change-1), Feature B | 2              | -            | -                          | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2               | Feature C                      | 2              | 3            | 2                          | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2               | Subclass Feature A             | 2              | 4            | 3                          | 3   | 1   | -   | -   | -   | -   | -   | -   | -   |
 | 4     | +2               | Ability Score Improvement      | 3              | 5            | 3                          | 3   | 2   | -   | -   | -   | -   | -   | -   | -   |
